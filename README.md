@@ -4,10 +4,10 @@
 This dashboard provides insights into e-commerce business.
 
 # Key Sections:
-Sales: Monitor performance and trends.
-Customers: Understand demographics and behavior.
-Inventory: Optimize stock management.
-Geography: Explore customer and sales locations.
+Sales: Monitor performance and trends |
+Customers: Understand demographics and behavior |
+Inventory: Optimize stock management |
+Geography: Explore customer and sales locations |
 Finance: Track financial metrics.
 
 # Conclusion:
